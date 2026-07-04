@@ -181,6 +181,14 @@ Also prepare for:
 
 ## The Core Skill Stack
 
+Start with the dedicated basics track:
+
+- [foundations_basics.md](foundations_basics.md): Python, JavaScript, TypeScript, and SQL study plan
+- [python_foundations_drills.py](python_foundations_drills.py): runnable Python basics and data drills
+- [javascript_basics_drills.js](javascript_basics_drills.js): runnable JavaScript basics and async/data drills
+- [typescript_basics_drills.ts](typescript_basics_drills.ts): TypeScript typing, unions, generics, and API contracts
+- [sql_basics_drills.sql](sql_basics_drills.sql): runnable SQLite practice for joins, grouping, CTEs, and window functions
+
 ### 1. Python 3 Engineering
 
 Must know:
